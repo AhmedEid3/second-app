@@ -1,0 +1,4 @@
+Primary color: #2aabe4;
+Navbar txt color: #d0d0d0;
+Txt color: #757575;
+Background-computer-color : #f1f8ff;
